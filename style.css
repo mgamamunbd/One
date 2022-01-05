@@ -3,13 +3,9 @@ body {
   font-family: "Merriweather", serif;
   color: aliceblue;
 }
-/* h1 {
-  text-align: left;
-  margin-left: 1.5rem;
-} */
-/* h2 {
-  margin-top: 50px;
-} */
+.myTopLogo {
+  text-shadow: 45deg, 5px 50px;
+}
 .myLogo {
   color: orange;
   text-align: left;
@@ -59,7 +55,7 @@ section img {
   text-align: left;
   float: left;
   margin-left: 5px;
-  padding: 5px;
+  padding: 10px;
 }
 .titleExperience {
   text-align: left;
